@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Codility.Lesson1;
 
 namespace Codility
 {
@@ -10,6 +6,24 @@ namespace Codility
     {
         static void Main(string[] args)
         {
+            BinaryGap binaryGap = new BinaryGap();
+
+            int result = binaryGap.solution(1041);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         }
     }
 }
